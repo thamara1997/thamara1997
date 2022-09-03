@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://github.com/thamara1997?tab=followers" target="_blank">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Viranga-pasi?color=green&logo=github">
-</a>
+</a><br><br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thamara1997&theme=blue-green)](https://git.io/streak-stats)
 
