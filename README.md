@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me [email]darshanathamara143@gmail.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thamara1997&theme=blue-green)](https://git.io/streak-stats)
+
 
 <!---
 thamara1997/thamara1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +31,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/thamara1997?tab=followers" target="_blank">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Viranga-pasi?color=green&logo=github">
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thamara1997&theme=blue-green)](https://git.io/streak-stats)
 
 ### 🛠️ languages and tools:
 
