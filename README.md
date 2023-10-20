@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Viranga-pasi?color=green&logo=github">
 </a><br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thamara1997)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thamara1997&theme=dark)](https://git.io/streak-stats)
 
 ### 🛠️ languages and tools:
 
