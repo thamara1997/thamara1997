@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thamara1997
-- 👀 I’m interested in UI/UX Design
+- 👀 I’m interested in WEB Dev & UI/UX Design
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me [email]darshanathamara143@gmail.com
