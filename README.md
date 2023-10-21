@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
   
 <img height="40" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png">
-<img height="40" src="[https://media.macosicons.com/parse/files/macOSicons/10f4c00360dab77cd694320612498303_low_res_1621923665824.png](https://cdn3.iconfinder.com/data/icons/inficons/512/apple.png)">
+<img height="40" src="https://cdn3.iconfinder.com/data/icons/inficons/512/apple.png">
 
 
 </p>
