@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 <img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png">
 <img height="40" src="https://user-images.githubusercontent.com/58588952/132095762-faa1a92a-aa47-4573-b628-f64a9baf1ed0.png">
 <img height="40" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png">
-<img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
+<img height="40" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png">
   
   
 <img height="40" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png">
