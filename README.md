@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ languages and tools:
 
-<p>
+<p styles={display:flex}>
 <img height="40" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
