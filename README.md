@@ -31,9 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ languages and tools:
 
-### 🛠️ Languages and Tools  
-
-<p align="center">
+<p >
   <!-- Row 1 -->
   <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="45"/>
@@ -49,7 +47,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" height="45"/>
 </p>
 
-<p align="center">
+<p >
   <!-- Row 2 -->
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="45"/>
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="45"/>
