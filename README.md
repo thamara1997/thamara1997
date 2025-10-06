@@ -31,36 +31,39 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ languages and tools:
 
-<p styles={display:flex}>
-<img height="40" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+### 🛠️ Languages and Tools  
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img height="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"><br><br>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
-<img height="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-<img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png">
-<img height="40" src="https://user-images.githubusercontent.com/58588952/132095762-faa1a92a-aa47-4573-b628-f64a9baf1ed0.png">
-<img height="40" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png">
-<img height="40" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png">
-  
-  
-<img height="40" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png">
-<img height="40" src="https://cdn3.iconfinder.com/data/icons/inficons/512/apple.png">
-
-
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" height="45"/>
+  <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" height="45"/>
 </p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="45"/>
+  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="45"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" height="45"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="45"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" height="45"/>
+  <img src="https://user-images.githubusercontent.com/58588952/132095762-faa1a92a-aa47-4573-b628-f64a9baf1ed0.png" height="45"/>
+  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height="45"/>
+  <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" height="45"/>
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" height="45"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/apple.png" height="45"/>
+</p>
+
 
 
